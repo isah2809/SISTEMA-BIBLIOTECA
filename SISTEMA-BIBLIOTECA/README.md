@@ -3,10 +3,10 @@ uma lista para guardar livros
 livros = [ ]
 depois vamos colocar dicionários dentro dela, por exemplo:
 {
-   "titulo": "Harry Potter",
+   "titulo": "Harry Potter e a Pedra Filosofal",
    "autor": "J.K. Rowling",
    "ano": 1997,
-   "isbn": "123456",
+   "isbn": "978-8532511010",
    "status": "disponível"
 }
 
